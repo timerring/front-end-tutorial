@@ -1,0 +1,50 @@
+/* pages/list/list.wxss */
+
+/* scroll-view 组件的基本使用 */
+/* .container1 view {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+
+.container1 view:nth-child(1) {
+  background-color: lightgreen;
+}
+.container1 view:nth-child(2) {
+  background-color: lightskyblue;
+}
+.container1 view:nth-child(3) {
+  background-color: lightpink;
+}
+
+.container1 {
+  border: 1px solid red;
+  width: 100px;
+  height: 120px;
+} */
+
+/* 轮播图的样式 */
+/* .swiper-container {
+  height: 150px;
+}
+
+.item {
+  height: 100%;
+  line-height: 150px;
+  text-align: center;
+}
+
+swiper-item:nth-child(1) .item {
+  background-color: lightgreen;
+}
+swiper-item:nth-child(2) .item {
+  background-color: lightskyblue;
+}
+swiper-item:nth-child(3) .item {
+  background-color: lightpink;
+} */
+
+image {
+  border: 1px solid red;
+}
